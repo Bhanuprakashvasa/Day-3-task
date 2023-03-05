@@ -1,0 +1,25 @@
+JSON FORMATE RESUME(sample):
+{"Details":
+[
+{"Name":"Bhanuprakash vasa",
+"dob":"13/10/2000",
+"email":"bhanuprakashvasa@gmail.com",
+"phn.num":"9381248255",
+[{"address":"kondamallepalli","nalgonda(dist)","telanagana","india"}]
+}
+"profile":[
+{"url":" ********* "}
+]
+"work experience":[
+{"company":"******"}
+]
+"education":[
+{"college":"sri indu college of engineering and technology",
+"location":"hyderabad",
+"course":"btech"}
+]
+"skills":[
+{"**","**","**","**"}
+]
+
+
